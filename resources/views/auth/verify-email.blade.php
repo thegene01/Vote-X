@@ -76,7 +76,7 @@
             .container {
                 width: 90%;
             }
-            
+
             .actions {
                 flex-direction: column;
                 gap: 10px;
@@ -111,6 +111,6 @@
                 </button>
             </form>
         </div>
-    </div>
+{{--     </div>
 </body>
-</html>
+</html> --}}
